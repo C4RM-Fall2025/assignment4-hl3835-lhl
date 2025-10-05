@@ -1,5 +1,3 @@
-
-
 def FizzBuzz(start, finish):
     m = finish - start + 1
     fb = []
@@ -15,4 +13,5 @@ def FizzBuzz(start, finish):
             fb.append(num)
     FizzBuzz = fb
     return FizzBuzz
+
 
